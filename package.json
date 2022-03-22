@@ -1,0 +1,15 @@
+{
+  "name": "bin-lookup-service",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "dotenv": "^16.0.0"
+  }, 
+  "engines": {
+    "node": ">=10.0.0", 
+    "npm": ">=3.0.0"
+  }
+}
